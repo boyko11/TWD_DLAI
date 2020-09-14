@@ -1,0 +1,4 @@
+.idea
+__pycache__
+/XY_train/X.npy
+/XY_dev/X_dev.npy
